@@ -1,0 +1,116 @@
+{
+  "institute": {
+    "name": "DMI — Digital Marketing Institute",
+    "founded": 2018,
+    "location": "Pune, Maharashtra (also fully online)",
+    "students_trained": 4200,
+    "hiring_partners": 200,
+    "google_partner": true,
+    "meta_business_partner": true
+  },
+  "courses": [
+    {
+      "id": "starter",
+      "name": "Digital Marketing Starter",
+      "target_audience": "Freshers and students with zero prior experience",
+      "duration_months": 3,
+      "mode": "Online — live + recorded",
+      "batches": ["Weekday: Mon–Fri 7–9 PM", "Weekend: Sat–Sun 10 AM–1 PM"],
+      "fee": 18999,
+      "emi": "3200/month x 6 months, zero cost",
+      "certifications": ["DMI Certificate", "Google Analytics Certified"],
+      "curriculum": ["Digital marketing fundamentals", "Social media marketing", "Basic SEO", "Google Ads introduction", "Content marketing basics", "Career readiness workshop"],
+      "placement_rate_percent": 82,
+      "avg_salary_lpa": "2.8–3.5",
+      "placement_support": true
+    },
+    {
+      "id": "performance_pro",
+      "name": "Performance Marketing Pro",
+      "target_audience": "Freshers and early-career professionals targeting agency or startup roles",
+      "duration_months": 5,
+      "mode": "Online — live + recorded",
+      "batches": ["Weekday: Mon–Fri 7–9 PM", "Weekend: Sat–Sun 10 AM–2 PM"],
+      "fee": 44999,
+      "emi": "4500/month x 10 months, zero cost",
+      "certifications": ["DMI Certification", "Google Ads Certified", "Meta Blueprint Certified"],
+      "curriculum": ["Meta Ads: targeting, creatives, retargeting", "Google Ads: Search, Display, Shopping, YouTube", "Landing pages and CRO", "Google Analytics 4", "Marketing funnels and attribution", "Capstone: live campaign", "Interview prep"],
+      "placement_rate_percent": 94,
+      "avg_salary_lpa": "3.5–5.5",
+      "highest_package_lpa": 9,
+      "hiring_companies": ["Dentsu", "WATConsult", "iProspect", "Wavemaker", "Razorpay", "Zomato"],
+      "placement_support": true
+    },
+    {
+      "id": "analytics_combo",
+      "name": "Digital Marketing + Analytics Combo",
+      "target_audience": "Tech professionals, developers, data analysts switching into marketing",
+      "duration_months": 8,
+      "mode": "Online — live + recorded + self-paced option",
+      "batches": ["Weekend: Sat–Sun 10 AM–2 PM", "Self-paced recorded available"],
+      "fee": 64999,
+      "emi": "6500/month x 10 months, zero cost",
+      "certifications": ["DMI Certification", "Google Analytics 4 Certified", "Meta Blueprint Certified", "Python for Marketing (DMI)"],
+      "curriculum": ["Full Performance Marketing Pro curriculum", "Google Analytics 4 advanced", "Python for marketing automation", "BigQuery for marketers", "Attribution modelling", "Looker Studio dashboards", "Capstone: analytics project"],
+      "placement_rate_percent": 89,
+      "avg_salary_lpa": "5.5–8",
+      "placement_support": true
+    },
+    {
+      "id": "business_bootcamp",
+      "name": "Performance Marketing Bootcamp",
+      "target_audience": "Business owners, entrepreneurs, freelancers",
+      "duration_months": 3,
+      "mode": "Online — live evening batches",
+      "batches": ["Tue + Thu: 7–9 PM", "Sat: 10 AM–1 PM"],
+      "fee": 29999,
+      "emi": "5000/month x 6 months, zero cost",
+      "certifications": ["DMI Business Marketing Certificate"],
+      "curriculum": ["Meta Ads for business", "Google Ads for local and e-commerce", "Instagram and Facebook organic growth", "WhatsApp marketing", "Basic SEO for business", "ROI tracking", "Live campaign on own business"],
+      "outcome": "Running profitable campaigns independently by week 4",
+      "success_story": "Meera's Boutique Pune — grew from 40k/month to 2.3L/month online revenue within 5 months",
+      "placement_support": false
+    },
+    {
+      "id": "social_media",
+      "name": "Social Media Marketing Specialist",
+      "target_audience": "Content creators, influencers, freshers interested in social media",
+      "duration_months": 3,
+      "mode": "Online — live + recorded",
+      "batches": ["Weekday or Weekend available"],
+      "fee": 22999,
+      "emi": "3800/month x 6 months, zero cost",
+      "certifications": ["DMI Social Media Certificate", "Meta Blueprint Certified"],
+      "curriculum": ["Instagram, Facebook, LinkedIn, YouTube strategy", "Content creation and calendar planning", "Reels and short video", "Community management", "Influencer marketing basics", "Social media analytics"],
+      "placement_rate_percent": 80,
+      "avg_salary_lpa": "2.5–3.5",
+      "placement_support": true
+    }
+  ],
+  "placements": {
+    "overall_rate_percent": 91,
+    "total_placed": 3800,
+    "avg_salary_lpa": 4.2,
+    "highest_package_lpa": 9,
+    "support_includes": ["Dedicated placement cell", "Resume review and LinkedIn optimisation", "Mock interviews (minimum 2 rounds)", "200+ hiring partner referral network", "Job portal access for 1 year"]
+  },
+  "batch_schedule": {
+    "new_batches_start": "1st and 15th of every month",
+    "recording_access_months": 12,
+    "missed_session_policy": "All sessions recorded, no penalty for missed classes"
+  },
+  "faqs": [
+    { "keywords": ["experience", "prior", "background", "beginner", "zero"], "q": "Do I need prior experience?", "a": "No. Over 60% of our students start with zero experience. Our beginner courses take you from scratch to job-ready." },
+    { "keywords": ["online", "offline", "mode", "live", "recorded"], "q": "Is the course online?", "a": "Yes. All courses are delivered online via live interactive sessions with recordings available for 12 months." },
+    { "keywords": ["refund", "cancel", "money back"], "q": "What is the refund policy?", "a": "Full refund within 7 days of enrollment, no questions asked." },
+    { "keywords": ["placement guarantee", "job guarantee", "guaranteed"], "q": "Do you offer a placement guarantee?", "a": "We offer placement assistance with a 91% success rate across 4,200+ students — not a guarantee, but our track record speaks for itself." },
+    { "keywords": ["working professional", "job", "schedule", "time", "busy"], "q": "Can working professionals manage the schedule?", "a": "Yes. Weekend batches and full recording access are specifically designed for working professionals. Most students spend 3–5 hours per week." },
+    { "keywords": ["google", "meta", "certification", "included", "voucher"], "q": "Are certifications included in the fee?", "a": "Yes. Google Analytics, Google Ads, and Meta Blueprint exam vouchers are included at no extra cost in eligible courses." },
+    { "keywords": ["jobs", "roles", "career", "position", "hire"], "q": "What jobs can I get?", "a": "Common roles: Performance Marketer, Digital Marketing Executive, Social Media Manager, SEO Executive, Growth Analyst, PPC Specialist." },
+    { "keywords": ["demo", "free class", "trial", "sample"], "q": "Is there a free demo?", "a": "Yes. Free demo classes every Saturday at 10 AM. You can also book a free 1:1 counseling call anytime." },
+    { "keywords": ["upgrade", "switch course", "change course"], "q": "Can I upgrade later?", "a": "Yes. Students can upgrade within 6 months at a discounted fee — course fee difference minus 15% loyalty discount." },
+    { "keywords": ["corporate", "company", "team", "organisation", "reimburse"], "q": "Does DMI offer corporate training?", "a": "Yes. Customised corporate programs available. DMI provides L&D reimbursement documentation." },
+    { "keywords": ["emi", "installment", "monthly", "pay monthly"], "q": "Is EMI available?", "a": "Yes. All courses have zero-cost EMI options. Payments accepted via credit card, debit card, net banking, UPI, Propelld, and Eduvanz." },
+    { "keywords": ["batch", "start", "when", "next batch", "joining"], "q": "When does the next batch start?", "a": "New batches start on the 1st and 15th of every month. Both weekday and weekend options available." }
+  ]
+}
