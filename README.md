@@ -105,7 +105,6 @@ d:\Lead_Nurturing_Agent\
     │   └── requirements.txt
     │
     └── documentation\
-        ├── README.md                        ← This file
         └── architecture\
             ├── system_architecture.md
             ├── agent_workflow.md
